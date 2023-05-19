@@ -1,0 +1,51 @@
+[
+    {
+        "codigo": 1,
+        "foto": "./imagenes/cepillo.jpg",
+        "nombre": "cepillo",
+        "precio": 3500
+    },
+    {
+        "codigo": 2,
+        "foto": "./imagenes/esmalte.jpg",
+        "nombre": "Esmalte Opi",
+        "precio": 1000
+    },
+    {
+        "codigo": 3,
+        "foto": "./imagenes/spray.jpg",
+        "nombre": "Spray Fijador",
+        "precio": 2500
+    },
+    {
+        "codigo": 4,
+        "foto": "./imagenes/serum-moroccanoil-grande-.jpg",
+        "nombre": "Serum Moroccanoil",
+        "precio": 15000
+    },
+    {
+        "codigo": 5,
+        "foto": "./imagenes/cortapeloytijera.jpg",
+        "nombre": "KIT-tijeras y cortadora",
+        "precio": 15000
+    },
+    {
+        "codigo": 6,
+        "foto": "./imagenes/planchita.jpg",
+        "nombre": "Planchita",
+        "precio": 49999
+    },
+    {
+        "codigo": 7,
+        "foto": "./imagenes/fijador.jpg",
+        "nombre": "Fijador",
+        "precio": 4000
+    },
+    {
+        "codigo": 8,
+        "foto": "./imagenes/alisado-mascara-recontruc.jpg",
+        "nombre": "Alisado sin formol",
+        "precio": 8000
+    }
+    
+]
